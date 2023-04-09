@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Developer
 -------------------
 
-I'm a fullstack developer passionate about learning new things and building perfomant apps that scale great using mordern tools.
+I'm a fullstack developer striving for progress over perfection, passionate about learning new things and growing as a deveoloper.
 
 * 🌍  I'm based in Blantyre
 * 🖥️  See my portfolio at [https://jesseemana.vercel.app](http://jesseemana.vercel.app)
