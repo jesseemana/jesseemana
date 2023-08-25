@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Developer
 -------------------
 
-I'm a fullstack developer keen on learning new things, open to feedback and growing as a developer and growing as a developer. 
+I'm a fullstack developer keen on learning new things, open to feedback and growing as a developer. 
 
 * 🌍  I'm based in Blantyre
 * ✉️  You can contact me at [jesseemana@gmail.com](mailto:jesseemana@gmail.com)
